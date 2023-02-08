@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Welcoming those impacted by Fragile X across all ages
+
 # Contact Us
 > Cincinnati Children’s Hospital Medical Center
 > 3333 Burnet Ave, Cincinnati OH, 45229-3026
@@ -12,7 +14,7 @@ Fragile X Syndrome (FXS) represents the most common inherited cause of intellect
 
 Since there is no cure for FXS, treatment focuses on improving the quality of life for the patient and family, which includes management of symptoms. An interdisciplinary team has been developed to provide an individualized level of treatment for each patient. The Fragile X Research and Treatment Center provides educational materials, behavioral medication management, behavioral and cognitive assessment, and behavior therapy interventions. Referrals for other services including speech therapy, occupational therapy, special education consultation, and genetic counseling, are available.
 
-# Cincinnati Fragile X Research and Treatment Center Faculty:
+# Our Faculty Physicians and Psychologists:
 **Dr. Craig Erickson, MD**, specializes in research, clinical treatment, and new treatment development for fragile X Syndrome (FXS), autism spectrum disorders, and other related disorders. He is the director and founder of the Cincinnati Fragile X Research and Treatment Center. 
  
 **Dr. Ernie Pedapati, MD**, is a psychiatrist and pediatrician who provides clinical care for individuals with Fragile X of all ages. His research interests include developing new treatments and understanding brain activity. He co-directs the Fragile X gene therapy program at Cincinnati Children’s.
@@ -29,7 +31,7 @@ Since there is no cure for FXS, treatment focuses on improving the quality of li
  
 **Dr. Meredith Will, PhD**, is a clinical psychologist. She specializes in assessment and diagnosis of individuals with a variety of developmental disability diagnoses, including autism spectrum disorder and FXS.
 
-# Non-Drug Studies  (in age order)
+# Available Non-Drug Studies  (in age order)
 For our non-drug studies, in most cases we are enrolling human subjects who match the age and sex of patients with fragile X to serve as "control" or comparison subjects. Specific testing and games vary per study. 
 
 ## Infant and Toddler Brain Function Study 
@@ -75,7 +77,7 @@ Who: Males with FXS 18-55 years old with IQ < 75
 What: Parent measures, cognitive testing, and EEG tasks 
 Why: This study aims to learn more about how distracting sensory stimuli impact behavior and brain activity. 
 
-# Drug Trials (in age order)
+# Available Drug Trials (in age order)
 
 ## Study of BPN14770 in FXS 
 Who: Males aged 12-18 years old with FXS 
