@@ -13,20 +13,24 @@ Fragile X Syndrome (FXS) represents the most common inherited cause of intellect
 
 Since there is no cure for FXS, treatment focuses on improving the quality of life for the patient and family, which includes management of symptoms. An interdisciplinary team has been developed to provide an individualized level of treatment for each patient. The Fragile X Research and Treatment Center provides educational materials, behavioral medication management, behavioral and cognitive assessment, and behavior therapy interventions. Referrals for other services including speech therapy, occupational therapy, special education consultation, and genetic counseling, are available.
 
-# Our Faculty Physicians and Psychologists:
+# Our Faculty and Providers:
+### Fragile X Physicians
 **Dr. Craig Erickson, MD**, specializes in research, clinical treatment, and new treatment development for fragile X Syndrome (FXS), autism spectrum disorders, and other related disorders. He is the director and founder of the Cincinnati Fragile X Research and Treatment Center. 
  
 **Dr. Ernie Pedapati, MD**, is a psychiatrist and pediatrician who provides clinical care for individuals with Fragile X of all ages. His research interests include developing new treatments and understanding brain activity. He co-directs the Fragile X gene therapy program at Cincinnati Children’s.
  
 **Dr. Kelli Dominick, MD, PhD**, is a neurodevelopmental psychiatrist and pediatrician.  She sees young children with fragile X clinically and conducts neuroimaging research in FXS. 
+
+**Dr. Martine Lamy, MD, PhD**, is a research physician who specializes in inpatient psychiatric care. Her research focuses on improving care for individuals with neurodevelopmental disorders and co-occurring severe behavior. 
    
+### Fragile X Psychologists
 **Dr. Elizabeth (Betsy) Smith, PhD**, is a clinical psychologist who uses neuroimaging techniques to understand how differences in social behaviors develop in FXS. 
  
 **Dr. Lauren Schmitt, PhD**, is a clinical psychologist with expertise in cognitive functioning in FXS. She is interested in identifying biomarkers in EEG and blood that relate to behavior, and in understanding and treating cognitive flexibility. 
  
 **Dr. Rebecca Shaffer, PsyD**, is a clinical psychologist whose research focuses on emotion dysregulation. She is committed to including a diverse range of participants in her research. She also provides clinical care, both in person and via telehealth, to Fragile X families.  
- 
-**Dr. Martine Lamy, MD, PhD**, is a research physician who specializes in inpatient psychiatric care. Her research focuses on improving care for individuals with neurodevelopmental disorders and co-occurring severe behavior. 
+
+**Dr. Debra Reisinger**, is a licensed clinical psychologist who will be providing telehealth behavioral intervention services to families with FXS as well as supporting current and future research projects with the Neurobehavioral Research Team.
  
 **Dr. Meredith Will, PhD**, is a clinical psychologist. She specializes in assessment and diagnosis of individuals with a variety of developmental disability diagnoses, including autism spectrum disorder and FXS.
 
