@@ -13,6 +13,8 @@ Fragile X Syndrome (FXS) represents the most common inherited cause of intellect
 
 Since there is no cure for FXS, treatment focuses on improving the quality of life for the patient and family, which includes management of symptoms. An interdisciplinary team has been developed to provide an individualized level of treatment for each patient. The Fragile X Research and Treatment Center provides educational materials, behavioral medication management, behavioral and cognitive assessment, and behavior therapy interventions. Referrals for other services including speech therapy, occupational therapy, special education consultation, and genetic counseling, are available.
 
+Link to our monthly newsletters: [Feb 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Feb2023.pdf) [Jan 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Jan2023.pdf) [Dec 22] (https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Dec2022.pdf)
+
 # Our Faculty and Providers:
 ### Fragile X Physicians
 **Dr. Craig Erickson, MD**, specializes in research, clinical treatment, and new treatment development for fragile X Syndrome (FXS), autism spectrum disorders, and other related disorders. He is the director and founder of the Cincinnati Fragile X Research and Treatment Center. 
