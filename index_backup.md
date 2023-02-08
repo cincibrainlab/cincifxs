@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-# Our approach to Fragile X Syndrome
-Fragile X Syndrome (FXS) represents the most common inherited cause of intellectual disability and autism, affecting approximately 1 in 4,000 to 6,000 individuals in the general population. About two-thirds of individuals with FXS have a form of autism spectrum disorder (ASD). FXS affects the X chromosome, specifically on the FMR1 gene; therefore, more males are diagnosed with FXS than females. Diagnosis of FXS is made through a DNA (blood) test. Cincinnati Fragile X Research and Treatment Center, located at Cincinnati Children's and led by Craig Erickson, MD, serves males and females of all ages affected by FXS.
-
-Since there is no cure for FXS, treatment focuses on improving the quality of life for the patient and family, which includes management of symptoms. An interdisciplinary team has been developed to provide an individualized level of treatment for each patient. The Fragile X Research and Treatment Center provides educational materials, behavioral medication management, behavioral and cognitive assessment, and behavior therapy interventions. Referrals for other services including speech therapy, occupational therapy, special education consultation, and genetic counseling, are available.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
