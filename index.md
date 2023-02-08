@@ -2,12 +2,11 @@
 layout: default
 ---
 # Welcoming those impacted by Fragile X across all ages
-
-# Contact Us
-> Cincinnati Children’s Hospital Medical Center
-> 3333 Burnet Ave, Cincinnati OH, 45229-3026
-> Email: fragilex@cchmc.org
-> Phone: 513-803-1150 
+> **Contact Us!**
+> * Cincinnati Children’s Hospital Medical Center
+> * 3333 Burnet Ave, Cincinnati OH, 45229-3026
+> * Email: fragilex@cchmc.org
+> * Phone: 513-803-1150 
 
 # Our approach to Fragile X Syndrome
 Fragile X Syndrome (FXS) represents the most common inherited cause of intellectual disability and autism, affecting approximately 1 in 4,000 to 6,000 individuals in the general population. About two-thirds of individuals with FXS have a form of autism spectrum disorder (ASD). FXS affects the X chromosome, specifically on the FMR1 gene; therefore, more males are diagnosed with FXS than females. Diagnosis of FXS is made through a DNA (blood) test. Cincinnati Fragile X Research and Treatment Center, located at Cincinnati Children's and led by Craig Erickson, MD, serves males and females of all ages affected by FXS.
