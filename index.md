@@ -18,10 +18,9 @@ Since there is no cure for FXS, treatment focuses on improving the quality of li
 [Jan 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Jan2023.pdf)
 [Dec 22](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Dec2022.pdf)
 
-<br>
 
 # Our Faculty and Providers:
-### Fragile X Physicians
+### **Fragile X Physicians**
 **Dr. Craig Erickson, MD**, specializes in research, clinical treatment, and new treatment development for fragile X Syndrome (FXS), autism spectrum disorders, and other related disorders. He is the director and founder of the Cincinnati Fragile X Research and Treatment Center. 
  
 **Dr. Ernie Pedapati, MD**, is a psychiatrist and pediatrician who provides clinical care for individuals with Fragile X of all ages. His research interests include developing new treatments and understanding brain activity. He co-directs the Fragile X gene therapy program at Cincinnati Children’s.
@@ -30,7 +29,7 @@ Since there is no cure for FXS, treatment focuses on improving the quality of li
 
 **Dr. Martine Lamy, MD, PhD**, is a research physician who specializes in inpatient psychiatric care. Her research focuses on improving care for individuals with neurodevelopmental disorders and co-occurring severe behavior. 
    
-### Fragile X Psychologists
+### **Fragile X Psychologists**
 **Dr. Elizabeth (Betsy) Smith, PhD**, is a clinical psychologist who uses neuroimaging techniques to understand how differences in social behaviors develop in FXS. 
  
 **Dr. Lauren Schmitt, PhD**, is a clinical psychologist with expertise in cognitive functioning in FXS. She is interested in identifying biomarkers in EEG and blood that relate to behavior, and in understanding and treating cognitive flexibility. 
