@@ -52,7 +52,8 @@ Why: This study uses a cap that monitors blood flow and electrical activity in t
 Who: Any child over 3 months old with FXS 
 What: MRI, EEG, cognitive/developmental testing, blood draw (optional)
 Why: This study’s goal is to learn more about brain structure, function, and development in people with developmental disabilities.  
-Characterizing the Biology of FXS 
+
+## Characterizing the Biology of FXS 
 Who: Anyone 
 What: A wide variety of optional tasks, including blood draws, cognitive testing, neuropsychological games, parent measures, EEG, MRI, eye tracking tasks  
 Why: The purpose of this study is to help us understand the biology of FXS by comparing data from people with FXS to typically developing individuals and individuals with other neurodevelopmental disorders. 
@@ -76,7 +77,8 @@ Why: Behavioral inflexibility is common in FXS and greatly impacts daily life. W
 Who: People 8-12 years old or 18+ with FXS and IQ < 85 OR typically developing controls 
 What: Clinical assessments, parent measures, cognitive testing, neuropsychological games, EEG and eye tracking tasks 
 Why: This study is looking at how the brain works and changes over time in FXS. It is a correlational study that enrolls individuals with FXS, their family members, and control groups.
-Study of Cognition and Language in Adults with FXS 
+
+## Study of Cognition and Language in Adults with FXS 
 Who: Right-handed people 18-36 years old with FXS and IQ <70 
 What: Blood draw, parent measures, cognitive and language testing, neuropsychological games, and EEG tasks  
 Why: This study’s goal is to better understand the brain basis of specific cognitive and language impairments in FXS. 
