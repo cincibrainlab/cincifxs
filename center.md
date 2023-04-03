@@ -1,3 +1,6 @@
+---
+layout: default
+---
 Welcome to the Erickson-Huber Fragile X Center
 
 Our goals are (truncated specific aims)
