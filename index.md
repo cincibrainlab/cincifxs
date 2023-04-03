@@ -13,6 +13,11 @@ Fragile X Syndrome (FXS) represents the most common inherited cause of intellect
 
 Since there is no cure for FXS, treatment focuses on improving the quality of life for the patient and family, which includes management of symptoms. An interdisciplinary team has been developed to provide an individualized level of treatment for each patient. The Fragile X Research and Treatment Center provides educational materials, behavioral medication management, behavioral and cognitive assessment, and behavior therapy interventions. Referrals for other services including speech therapy, occupational therapy, special education consultation, and genetic counseling, are available.
 
+# Cincinnati Erickson-Hube NIH Fragile X Research Center
+The Fragile X Centers Program focuses on researching ways to better diagnose and treat Fragile X syndrome and related conditions by bringing together experts from various fields and institutions to turn scientific discoveries into real-world solutions.
+
+[Link to Cincinnati Erickson-Huber NIH Fragile X Research Center](https://cincibrainlab.github.io/cincifxs/center.md)
+
 ## Our Monthly Newsletters: 
 [Feb 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Feb2023.pdf) 
 [Jan 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Jan2023.pdf)
