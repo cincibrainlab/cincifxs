@@ -3,9 +3,7 @@ layout: default
 ---
 # Welcome to the Erickson-Huber Fragile X Center
 
-## Our Goals
-
-Our goals are (truncated specific aims)
+## Our Purpose and Goals
 
 1. Purpose: The primary aim of the Erickson-Huber Fragile X Center is to advance scientific knowledge about Fragile X syndrome and related disorders, as well as to improve the lives of individuals and families affected by these conditions. The center achieves this through research, clinical care, education, and advocacy.
 2. Goals: The Erickson-Huber Fragile X Center has several specific goals, including:
@@ -17,7 +15,7 @@ Our goals are (truncated specific aims)
 
 ## Our People
 
-### CCHMC / UC: https://www.cincinnatichildrens.org/research/divisions/p/psychiatry/labs/erickson-wink 
+### CCHMC / UC: [View Lab Website](https://www.cincinnatichildrens.org/research/divisions/p/psychiatry/labs/erickson-wink) 
 
 ## Craig Erickson 
 - Link: https://www.cincinnatichildrens.org/bio/e/craig-erickson
@@ -68,7 +66,7 @@ Our goals are (truncated specific aims)
 - She currently works at Cincinnati Children’s Hospital Medical Center, where she leads a team of researchers in studying the epidemiology and prevention of childhood infections. 
 - With over 20 years of experience in the field, Dr. Smith is widely respected for her contributions to the development of new treatments and therapies for children suffering from infectious diseases. 
 
-### OU: https://ouhsc.edu/bbmc/babl/ 
+### OU: [View Lab Website](https://ouhsc.edu/bbmc/babl/) 
 
 ## Lauren Ethridge 
 - Link: https://medicine.ouhsc.edu/academic-departments/pediatrics/sections/developmental-behavioral-pediatrics/faculty/lauren-e-ethridge-phd
@@ -77,7 +75,7 @@ Our goals are (truncated specific aims)
 - Dr. Ethridge's research focuses on the use of dense-array EEG to establish non-invasive biological markers for changes in brain function related to neurodevelopmental disorders, such as Fragile X syndrome and autism spectrum disorder. 
 - The ultimate goal of her research is to aid in early identification, prediction of treatment response, and assessment of treatment effects.
 
-### UTSW: https://labs.utsouthwestern.edu/huber-lab 
+### UTSW: [View Lab Website](https://labs.utsouthwestern.edu/huber-lab) 
 
 ## Kim Huber 
 - Link: https://profiles.utsouthwestern.edu/profile/50231/kimberly-huber.html
@@ -92,7 +90,7 @@ Our goals are (truncated specific aims)
 - He completed his undergraduate degree in biophysics at UC Berkeley and earned his PhD from the University of Rochester, where he studied neocortical activity related to visual processing. 
 - He joined the Center for Basic Neuroscience at UT Southwestern in 2001 and now focuses on using electrophysiological techniques to study cortical inhibitory circuitry plasticity and alterations in circuitry in the Fragile X syndrome mouse model.
 
-### UCR: https://www.binderlab.com/
+### UCR: [View Lab Website](https://www.binderlab.com/)
 
 ## Devin Binder 
 - Link: https://profiles.ucr.edu/app/home/profile/dbinder
@@ -108,7 +106,7 @@ Our goals are (truncated specific aims)
 - Dr. Razak's research focuses on understanding the neural mechanisms underlying sensory processing and perception, particularly in the auditory system, using a combination of behavioral, electrophysiological, and imaging techniques in animal models. 
 - His work has contributed to a better understanding of how the brain processes complex sounds and how this process can be disrupted in various neurological disorders.
 
-### UIC: https://psch.uic.edu/ 
+### UIC: [View Lab Website](https://psch.uic.edu/) 
 
 ## Mike Ragozzino
 - Link: https://psch.uic.edu/profiles/ragozzino-michael/ 
@@ -144,3 +142,9 @@ Our goals are (truncated specific aims)
   
 - [Hemispheric Utilization of Alpha Oscillatory Dynamics as a Unique Biomarker of Neural Compensation in Females with Fragile X Syndrome](https://pubmed.ncbi.nlm.nih.gov/36411085/)
   - Norris JE, DeStefano LA, Schmitt LM, Pedapati EV, Erickson CA, Sweeney JA, Ethridge LE. ACS chemical neuroscience. 2022 December 7;13(23):3389-3402.
+
+## Additional Links
+- [NICHD's Fragile X Centers Overview](https://www.nichd.nih.gov/research/supported/ccrfx)
+- [Emory University School of Medicine Fragile X Center](https://med.emory.edu/departments/human-genetics/research/fragile-x-center/index.html)
+- [Cincinnati Fragile X Research and Treatment Center](https://www.cincinnatichildrens.org/service/p/psychiatry/programs/outpatient/fragile-x)
+- [Cincinnati Neurobehavioral Psychiatry Continuum of Care: Posters and Papers](https://sites.google.com/view/neurobehavioral-continuum/)
