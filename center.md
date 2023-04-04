@@ -93,7 +93,7 @@ layout: default
 - Dr. Razak's research focuses on understanding the neural mechanisms underlying sensory processing and perception, particularly in the auditory system, using a combination of behavioral, electrophysiological, and imaging techniques in animal models. 
 - His work has contributed to a better understanding of how the brain processes complex sounds and how this process can be disrupted in various neurological disorders.
 
-### UIC: [View Lab Website](https://psch.uic.edu/) 
+### [UIC](https://psch.uic.edu/): 
 
 ## [Mike Ragozzino](https://psch.uic.edu/profiles/ragozzino-michael/) 
 - Dr. Mike Ragozzino, PhD, is a professor of psychology at the University of Illinois at Urbana-Champaign. 
