@@ -17,9 +17,7 @@ Our goals are (truncated specific aims)
 
 ## Our People
 
-These are our people (bios separated by site)
-
-### CCHMC / UC: 
+### CCHMC / UC: https://www.cincinnatichildrens.org/research/divisions/p/psychiatry/labs/erickson-wink 
 
 ## Craig Erickson 
 - Link: https://www.cincinnatichildrens.org/bio/e/craig-erickson
@@ -58,12 +56,28 @@ These are our people (bios separated by site)
 - She leads a treatment program called Regulating Together, which treats emotion dysregulation in children with ASD in a group setting with concurrent caregiver training. 
 - Dr. Shaffer is committed to training future leaders in neurobehavioral care and has overseen several Fragile X research studies.
 
+## Kelli Dominick
+- Link: https://www.cincinnatichildrens.org/bio/d/kelli-dominick 
+- Dr. Kelli Dominick is an assistant professor at Cincinnati Children’s Hospital Medical Center specializing in neurodevelopmental disorders like austism spectrum disorder and Fragile X syndrome. 
+- She obtained her MD and PhD from Boston University School of Medicine, where she was awarded a pre-doctoral fellowship from the National Institute of Health. 
+- Her research focuses on the use of neuroimaging to study neural development and early identification and treatment of these disorders.
+
+## Elizabeth Smith
+- Link: https://scholar.google.com/citations?user=UpcBrEsAAAAJ&hl=en 
+- Dr. Elizabeth Smith, PhD, is a highly accomplished researcher and scientist in the field of pediatrics, with a particular focus on infectious diseases. 
+- She currently works at Cincinnati Children’s Hospital Medical Center, where she leads a team of researchers in studying the epidemiology and prevention of childhood infections. 
+- With over 20 years of experience in the field, Dr. Smith is widely respected for her contributions to the development of new treatments and therapies for children suffering from infectious diseases. 
+
+### OU: https://ouhsc.edu/bbmc/babl/ 
+
 ## Lauren Ethridge 
 - Link: https://medicine.ouhsc.edu/academic-departments/pediatrics/sections/developmental-behavioral-pediatrics/faculty/lauren-e-ethridge-phd
 - Dr. Lauren Ethridge, PhD, is an associate professor of psychology at the University of Oklahoma. 
 - She received her PhD in neuroscience from the University of Georgia and completed her postdoctoral training at the Center for Autism and Developmental Disabilities at UT Southwestern Medical Center. 
 - Dr. Ethridge's research focuses on the use of dense-array EEG to establish non-invasive biological markers for changes in brain function related to neurodevelopmental disorders, such as Fragile X syndrome and autism spectrum disorder. 
 - The ultimate goal of her research is to aid in early identification, prediction of treatment response, and assessment of treatment effects.
+
+### UTSW: https://labs.utsouthwestern.edu/huber-lab 
 
 ## Kim Huber 
 - Link: https://profiles.utsouthwestern.edu/profile/50231/kimberly-huber.html
@@ -78,6 +92,8 @@ These are our people (bios separated by site)
 - He completed his undergraduate degree in biophysics at UC Berkeley and earned his PhD from the University of Rochester, where he studied neocortical activity related to visual processing. 
 - He joined the Center for Basic Neuroscience at UT Southwestern in 2001 and now focuses on using electrophysiological techniques to study cortical inhibitory circuitry plasticity and alterations in circuitry in the Fragile X syndrome mouse model.
 
+### UCR: https://www.binderlab.com/
+
 ## Devin Binder 
 - Link: https://profiles.ucr.edu/app/home/profile/dbinder
 - Dr. Devin K. Binder, MD, PhD, is an associate professor in residence in the Department of Biomedical Sciences at the University of California, Riverside. 
@@ -91,6 +107,15 @@ These are our people (bios separated by site)
 - He obtained his PhD in behavioral neuroscience from the University of Texas at Austin and completed postdoctoral training at the University of California, San Francisco. 
 - Dr. Razak's research focuses on understanding the neural mechanisms underlying sensory processing and perception, particularly in the auditory system, using a combination of behavioral, electrophysiological, and imaging techniques in animal models. 
 - His work has contributed to a better understanding of how the brain processes complex sounds and how this process can be disrupted in various neurological disorders.
+
+### UIC: https://psch.uic.edu/ 
+
+## Mike Ragozzino
+- Link: https://psch.uic.edu/profiles/ragozzino-michael/ 
+- Dr. Mike Ragozzino, PhD, is a professor of psychology at the University of Illinois at Urbana-Champaign. 
+- He received his PhD in experimental psychology from the University of Florida in 1993. 
+- Dr. Ragozzino's research focuses on the neural and cognitive mechanisms that underlie learning and memory processes, including how different brain regions interact to support these processes. 
+- His work has implications for understanding cognitive disorders such as Alzheimer's disease and for developing more effective treatments for cognitive deficits.
 
 ## Notable Research Papers
 - https://pubmed.ncbi.nlm.nih.gov/35379866/
