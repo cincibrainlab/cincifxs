@@ -49,12 +49,12 @@ layout: default
 - Dr. Shaffer is committed to training future leaders in neurobehavioral care and has overseen several Fragile X research studies.
 
 ## [Kelli Dominick](https://www.cincinnatichildrens.org/bio/d/kelli-dominick) 
-- Dr. Kelli Dominick is an assistant professor at Cincinnati Children’s Hospital Medical Center specializing in neurodevelopmental disorders like austism spectrum disorder and Fragile X syndrome. 
+- Dr. Kelli Dominick, PhD, is an assistant professor at Cincinnati Children’s Hospital Medical Center specializing in neurodevelopmental disorders like austism spectrum disorder and Fragile X syndrome. 
 - She obtained her MD and PhD from Boston University School of Medicine, where she was awarded a pre-doctoral fellowship from the National Institute of Health. 
 - Her research focuses on the use of neuroimaging to study neural development and early identification and treatment of these disorders.
 
 ## [Elizabeth Smith](https://scholar.google.com/citations?user=UpcBrEsAAAAJ&hl=en )
-- Dr. Elizabeth Smith, PhD is a licensed clinical psychologist and assistant professor of pediatrics who studies early brain development and the neurobiological bases of impaired social-communicative development in autism and other neurodevelopmental disorders. 
+- Dr. Elizabeth Smith, PhD, is a licensed clinical psychologist and assistant professor of pediatrics who studies early brain development and the neurobiological bases of impaired social-communicative development in autism and other neurodevelopmental disorders. 
 - Dr. Smith is interested in application of neuroimaging techniques understudied populations, including children with minimal verbal abilities and in toddlers and very young children. 
 - She is currently running a project using functional Near Infrared Spectroscopy (fNIRS) to study brain activation for language processing in Fragile X and how this relates to emergence of language skills over time.
 ### [OU](https://ouhsc.edu/bbmc/babl/): 
