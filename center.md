@@ -15,7 +15,7 @@ layout: default
 
 ## Our People
 
-### CCHMC / UC: [View Lab Website](https://www.cincinnatichildrens.org/research/divisions/p/psychiatry/labs/erickson-wink) 
+### [CCHMC / UC](https://www.cincinnatichildrens.org/research/divisions/p/psychiatry/labs/erickson-wink):
 
 ## [Craig Erickson](https://www.cincinnatichildrens.org/bio/e/craig-erickson)
 - Dr. Craig Erickson, MD, is a highly regarded psychiatrist and internationally renowned expert in Fragile X syndrome who currently works at Cincinnati Children's Hospital Medical Center. 
@@ -58,7 +58,7 @@ layout: default
 - She currently works at Cincinnati Children’s Hospital Medical Center, where she leads a team of researchers in studying the epidemiology and prevention of childhood infections. 
 - With over 20 years of experience in the field, Dr. Smith is widely respected for her contributions to the development of new treatments and therapies for children suffering from infectious diseases. 
 
-### OU: [View Lab Website](https://ouhsc.edu/bbmc/babl/) 
+### [OU](https://ouhsc.edu/bbmc/babl/): 
 
 ## [Lauren Ethridge](https://medicine.ouhsc.edu/academic-departments/pediatrics/sections/developmental-behavioral-pediatrics/faculty/lauren-e-ethridge-phd) 
 - Dr. Lauren Ethridge, PhD, is an associate professor of psychology at the University of Oklahoma. 
@@ -66,7 +66,7 @@ layout: default
 - Dr. Ethridge's research focuses on the use of dense-array EEG to establish non-invasive biological markers for changes in brain function related to neurodevelopmental disorders, such as Fragile X syndrome and autism spectrum disorder. 
 - The ultimate goal of her research is to aid in early identification, prediction of treatment response, and assessment of treatment effects.
 
-### UTSW: [View Lab Website](https://labs.utsouthwestern.edu/huber-lab) 
+### [UTSW](https://labs.utsouthwestern.edu/huber-lab): 
 
 ## [Kim Huber](https://profiles.utsouthwestern.edu/profile/50231/kimberly-huber.html)
 - Dr. Kimberly Huber, PhD, is a neurobiologist and professor at UT Southwestern who received her PhD in Neurobiology from The University of Texas Graduate School of Biomedical Sciences. 
@@ -79,7 +79,7 @@ layout: default
 - He completed his undergraduate degree in biophysics at UC Berkeley and earned his PhD from the University of Rochester, where he studied neocortical activity related to visual processing. 
 - He joined the Center for Basic Neuroscience at UT Southwestern in 2001 and now focuses on using electrophysiological techniques to study cortical inhibitory circuitry plasticity and alterations in circuitry in the Fragile X syndrome mouse model.
 
-### UCR: [View Lab Website](https://www.binderlab.com/)
+### [UCR](https://www.binderlab.com/):
 
 ## [Devin Binder](https://profiles.ucr.edu/app/home/profile/dbinder)
 - Dr. Devin K. Binder, MD, PhD, is an associate professor in residence in the Department of Biomedical Sciences at the University of California, Riverside. 
@@ -101,7 +101,7 @@ layout: default
 - Dr. Ragozzino's research focuses on the neural and cognitive mechanisms that underlie learning and memory processes, including how different brain regions interact to support these processes. 
 - His work has implications for understanding cognitive disorders such as Alzheimer's disease and for developing more effective treatments for cognitive deficits.
 
-# Here is our work (links to papers, preferably links that lead to "full-text" being available)
+# Past Work
 
 - [Optimization, validation and initial clinical implications of a Luminex-based immunoassay for the quantification of Fragile X Protein from dried blood spots](https://pubmed.ncbi.nlm.nih.gov/35379866/)
   - Boggs AE, Schmitt LM, McLane RD, Adayev T, LaFauci G, Horn PS, Dominick KC, Gross C, Erickson CA. Scientific reports. 2022 April 4;12(1):5617.
