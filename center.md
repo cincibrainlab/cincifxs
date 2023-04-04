@@ -54,10 +54,9 @@ layout: default
 - Her research focuses on the use of neuroimaging to study neural development and early identification and treatment of these disorders.
 
 ## [Elizabeth Smith](https://scholar.google.com/citations?user=UpcBrEsAAAAJ&hl=en )
-- Dr. Elizabeth Smith, PhD, is a highly accomplished researcher and scientist in the field of pediatrics, with a particular focus on infectious diseases. 
-- She currently works at Cincinnati Children’s Hospital Medical Center, where she leads a team of researchers in studying the epidemiology and prevention of childhood infections. 
-- With over 20 years of experience in the field, Dr. Smith is widely respected for her contributions to the development of new treatments and therapies for children suffering from infectious diseases. 
-
+- Dr. Elizabeth Smith, PhD is a licensed clinical psychologist and assistant professor of pediatrics who studies early brain development and the neurobiological bases of impaired social-communicative development in autism and other neurodevelopmental disorders. 
+- Dr. Smith is interested in application of neuroimaging techniques understudied populations, including children with minimal verbal abilities and in toddlers and very young children. 
+- She is currently running a project using functional Near Infrared Spectroscopy (fNIRS) to study brain activation for language processing in Fragile X and how this relates to emergence of language skills over time.
 ### [OU](https://ouhsc.edu/bbmc/babl/): 
 
 ## [Lauren Ethridge](https://medicine.ouhsc.edu/academic-departments/pediatrics/sections/developmental-behavioral-pediatrics/faculty/lauren-e-ethridge-phd) 
