@@ -16,7 +16,7 @@ Since there is no cure for FXS, treatment focuses on improving the quality of li
 # Help support Fragile X Research at Cincinnati Children's!
 [Fragile X Syndrome Donation Center](http://give.cincinnatichildrens.org/fragilex)
 
-# Cincinnati Erickson-Hube NIH Fragile X Research Center
+# Cincinnati Erickson-Huber NIH Fragile X Research Center
 The Fragile X Centers Program focuses on researching ways to better diagnose and treat Fragile X syndrome and related conditions by bringing together experts from various fields and institutions to turn scientific discoveries into real-world solutions.
 
 [Link to Cincinnati Erickson-Huber NIH Fragile X Research Center](https://cincibrainlab.github.io/cincifxs/center.md)
