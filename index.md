@@ -22,6 +22,8 @@ The Fragile X Centers Program focuses on researching ways to better diagnose and
 [Link to Cincinnati Erickson-Huber NIH Fragile X Research Center](https://cincibrainlab.github.io/cincifxs/center.md)
 
 ## Our Monthly Newsletters: 
+[Apr 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_April2023.pdf) 
+[Mar 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_March2023.pdf) 
 [Feb 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Feb2023.pdf) 
 [Jan 23](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Jan2023.pdf)
 [Dec 22](https://cincibrainlab.github.io/cincifxs/assets/newsletters/FXNewsletter_Dec2022.pdf)
