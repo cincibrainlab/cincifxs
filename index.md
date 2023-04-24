@@ -30,6 +30,8 @@ The Fragile X Centers Program focuses on researching ways to better diagnose and
 
 
 # Our Faculty and Providers:
+[Team Photos](https://www.cincinnatichildrens.org/research/divisions/p/psychiatry/labs/erickson-wink/meet)
+
 ### **Fragile X Physicians**
 **Dr. Craig Erickson, MD**, specializes in research, clinical treatment, and new treatment development for fragile X Syndrome (FXS), autism spectrum disorders, and other related disorders. He is the director and founder of the Cincinnati Fragile X Research and Treatment Center. 
  
