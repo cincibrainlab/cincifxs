@@ -40,6 +40,7 @@ The Fragile X Centers Program focuses on researching ways to better diagnose and
 **Dr. Kelli Dominick, MD, PhD**, is a neurodevelopmental psychiatrist and pediatrician.  She sees young children with fragile X clinically and conducts neuroimaging research in FXS. 
 
 **Dr. Martine Lamy, MD, PhD**, is a research physician who specializes in inpatient psychiatric care. Her research focuses on improving care for individuals with neurodevelopmental disorders and co-occurring severe behavior. 
+
    
 ### **Fragile X Psychologists**
 **Dr. Elizabeth (Betsy) Smith, PhD**, is a clinical psychologist who uses neuroimaging techniques to understand how differences in social behaviors develop in FXS. 
@@ -51,6 +52,12 @@ The Fragile X Centers Program focuses on researching ways to better diagnose and
 **Dr. Debra Reisinger**, is a licensed clinical psychologist who will be providing telehealth behavioral intervention services to families with FXS as well as supporting current and future research projects with the Neurobehavioral Research Team.
  
 **Dr. Meredith Will, PhD**, is a clinical psychologist. She specializes in assessment and diagnosis of individuals with a variety of developmental disability diagnoses, including autism spectrum disorder and FXS.
+
+
+### **Clinic Coordinator**
+
+**Austin Corsmeier, MSN,  RN** is the clinic coordinator and research nurse within the Cincinnati Fragile X Research and Treatment Center. 
+
 
 # Available Non-Drug Studies  (in age order)
 For our non-drug studies, in most cases we are enrolling human subjects who match the age and sex of patients with fragile X to serve as "control" or comparison subjects. Specific testing and games vary per study. 
